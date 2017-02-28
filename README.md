@@ -2,7 +2,7 @@
 
 Contexte
 ---
-Cours sur php objet openclassrooms. Faire un jeu de combat. 
+Cours sur php objet openclassrooms. Faire un jeu de combat. En cours
 
 Fonctionnalités du programme :
 ---
